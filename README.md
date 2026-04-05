@@ -5576,9 +5576,11 @@ Found a bug, have a better explanation, or want to add more questions?
 | ✅ Live | [react-interview-questions](https://github.com/sisi-tarak/react-interview-questions) |
 | ✅ Live | [mern-interview-questions](https://github.com/sisi-tarak/mern-interview-questions) |
 | ✅ Live | [dsa-interview-questions](https://github.com/sisi-tarak/dsa-interview-questions) |
-| 🔜 Coming | nodejs-interview-questions |
-| 🔜 Coming | java-interview-questions |
-| 🔜 Coming | python-interview-questions |
+| ✅ Live | [nodejs-interview-questions](https://github.com/sisi-tarak/nodejs-interview-questions) |
+| ✅ Live | [python-interview-questions](https://github.com/sisi-tarak/python-interview-questions) |
+| ✅ Live | [java-interview-questions](https://github.com/sisi-tarak/java-interview-questions) |
+| ✅ Live | [dsa-interview-questions-python](https://github.com/sisi-tarak/dsa-interview-questions-python) |
+
 
 ⭐ **Star all repos to get notified when new ones drop!**
 
