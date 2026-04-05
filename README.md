@@ -5541,20 +5541,17 @@ Mastering patterns is more valuable than solving 500 random problems. Most inter
 **[⬆ Back to Top](#table-of-contents)**
 
 <br>
-
----
+<br>
 
 <div align="center">
 
 ## 🎉 You've covered all 150 DSA Interview Questions in Python!
 
----
-
+<br>
 **If this repo helped you crack your interview, please give it a ⭐**
 
 [![Star this repo](https://img.shields.io/github/stars/sisi-tarak/dsa-interview-questions?style=social)](https://github.com/sisi-tarak/dsa-interview-questions)
 
----
 
 ### 📲 Follow Sisi for more tech interview prep content
 
